@@ -1,5 +1,5 @@
 <div align="center">
-<img height=200px width=200px src="https://avatars.githubusercontent.com/u/96548841?v=4">
+
 <a href="https://raw.githubusercontent.com/10086100886/github-stats/master/generated/overview.svg#gh-light-mode-only">
     <img src="https://github.com/10086100886/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" /></a>
 <a href="https://raw.githubusercontent.com/10086100886/github-stats/master/generated/languages.svg#gh-light-mode-only">
