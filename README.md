@@ -26,7 +26,7 @@
 
 
 ### 📈 GitHub 统计
-![ GitHub 统计](https://github-readme-stats.vercel.app/api?username=10086100886&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+![ GitHub 统计](https://github-readme-stats.vercel.app/api?username=qinwuyuan-cn&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
 
  
 ### 📫 联系我
