@@ -27,7 +27,7 @@
 
 ### 📈 GitHub 统计
 
-![qinwuyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qinwuyuan-cn&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![qinwuyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinaGodMan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
  
 ### 📫 联系我
 - **邮箱：** [toniaiwanowskiskr47@gmail.com](mailto:toniaiwanowskiskr47@gmail.com)
