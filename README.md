@@ -11,9 +11,7 @@
 <a href="https://raw.githubusercontent.com/10086100886/github-stats/master/generated/languages.svg#gh-dark-mode-only">
     <img src="https://github.com/10086100886/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></a>    
 <br /><br />
-<p align="center">
- <img height=108px width=108px src="https://avatars.githubusercontent.com/u/96548841?v=4"> 
-   </p>
+
 ## 👋 你好，我是 [人民的勤务员]
 
 ### 🇨🇳 关于我
